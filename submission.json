@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a tailor shop where one person is wearing a perfectly fitted suit, while several others wearing identical suits look uncomfortable, tight, and distorted. The focus is on contrast between perfect fit and poor fit. No text, no labels, natural lighting, cinematic, highly detailed, real-world photography style",
+  "model": "Gemini 1.5 Pro",
+  "concept": "Overfitting",
+  "metaphor": "A perfectly tailored suit fits one person exactly but fails on others, representing a model that memorizes instead of generalizing."
+}
